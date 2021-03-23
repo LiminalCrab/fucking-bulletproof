@@ -12,5 +12,14 @@ hostname=`ringzero`
   filename="/home/liminalcrab/Projects/fucking-bulletproof/${hostname}_${db}_${date}.sql"
   pg_dump rssfeeds >  $filename 2>&1
 
+
+cd /home/liminalcrab/Projects/fucking-bulletproof
+
+git add -A
+git commit -p -m "${date}"
+git push
+
 exit 0
+
+
 
