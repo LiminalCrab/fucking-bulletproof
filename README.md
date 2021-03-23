@@ -1,2 +1,2 @@
 # fucking-bulletproof
-Capable of surviving a fire at a data center.
+Capable of setting fire to a data center.

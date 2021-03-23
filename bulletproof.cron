@@ -1,0 +1,3 @@
+git -C Projects/fucking_bulletproof add .
+git -C Projects/fucking_bulletproof commit -m "another commit"
+git -C Projects/fucking_bulletproof push origin master
